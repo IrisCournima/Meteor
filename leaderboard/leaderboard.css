@@ -1,0 +1,25 @@
+/* CSS declarations go here */
+body{
+
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 200;
+}
+
+form{
+	margin-top:15px;
+}
+
+li{
+	 list-style-type: none;
+	 margin-top: 5px;
+}
+input{
+	margin-top:5px;
+}
+
+.selected{
+	background-color: #ffdddd;
+}
+.player{
+	    cursor: pointer;
+}
